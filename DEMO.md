@@ -1,4 +1,4 @@
-# Demo Guide — India Carbon Tracker
+# Demo Guide — EcoCalc
 
 ## Startup Sequence
 1. Splash screen initializes  
