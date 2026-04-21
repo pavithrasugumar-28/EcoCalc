@@ -1,0 +1,4 @@
+# India Carbon Tracker Dependencies
+
+tk
+sqlite3
