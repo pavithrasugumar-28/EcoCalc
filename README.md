@@ -8,7 +8,7 @@ India Carbon Tracker is a modular carbon emission tracking application designed 
 
 # Overview
 
-India Carbon Tracker transforms conventional carbon calculators into an interactive experience. Users navigate through a cinematic interface—from Earth visualization to localized Indian activity inputs—culminating in emission analysis and sustainability recommendations.
+EcoCalc: India Carbon Tracker transforms conventional carbon calculators into an interactive experience. Users navigate through a cinematic interface—from Earth visualization to localized Indian activity inputs—culminating in emission analysis and sustainability recommendations.
 
 The system is designed with scalability, usability, and environmental accuracy in mind.
 
@@ -82,11 +82,11 @@ carbon\_calculator/
 
 Clone the repository:
 
-git clone https://github.com/yourusername/india-carbon-tracker.git
+git clone (https://github.com/pavithrasugumar-28/EcoCalc)
 
 Navigate to project:
 
-cd india-carbon-tracker/carbon\_calculator
+cd EcoCalc/carbon_calculator
 
 Run the application:
 
