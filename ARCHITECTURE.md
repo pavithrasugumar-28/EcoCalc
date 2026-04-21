@@ -1,4 +1,4 @@
-# System Architecture — India Carbon Tracker
+# System Architecture — EcoCalc: India Carbon Tracker
 
 ## Overview
 India Carbon Tracker follows a modular layered architecture designed for scalability and maintainability.
